@@ -206,7 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# FFMPEG
+# FFmpeg
 ffmpeg.exe
 ffplay.exe
 ffprobe.exe
